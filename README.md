@@ -26,7 +26,7 @@ The table reservation interface is designed similarly to cinema seat selection, 
 
 ## User Story
 
-[View User Story](https://drive.google.com/file/d/1YnTzNYzNPGPjU8ZnhyLhL6HHhsz9KJP-/view?usp=sharing)
+[View User Story](https://drive.google.com/file/d/1S7TLGT0gPcHaP21AIJYrVHPvU0EQWwJl/view?usp=sharing)
 
 ## Status
 
