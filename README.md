@@ -24,6 +24,10 @@ The table reservation interface is designed similarly to cinema seat selection, 
 
 [View Figma Make Prototype](https://www.figma.com/make/Qfyuqtry4QaRi2LpBjIxQU/Prototype-Web-Page-Design?t=KzcZoou7unHPA0nf-20&fullscreen=1)
 
+## User Story
+
+[View User Story](https://drive.google.com/file/d/1YnTzNYzNPGPjU8ZnhyLhL6HHhsz9KJP-/view?usp=sharing)
+
 ## Status
 
 **Design / Prototype Only**
