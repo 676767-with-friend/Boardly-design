@@ -1,24 +1,18 @@
-# Board Game Store & Table Reservation
+# Board Game Store — Shop & Table Reservation
 
-A UI/UX design prototype for a **Board Game Store** that combines online board game shopping with in-store table reservations.
+A responsive UI/UX prototype that combines an **online board game shop** with a **multi-branch table reservation and in-store play system** in one platform.
 
-## Features
+## Core Experience
 
-* Browse and buy board games
-* Client registration and login
-* Reserve a table by date and time
-* Interactive table selection
-* Staff check-in / check-out
-* Staff can assign clients to available tables
-* Track play sessions and calculate fees
-* View client reservation and play history
-* Staff dashboard for managing tables and clients
+- **Shop:** Browse, search, filter, buy board games, checkout, and track orders.
+- **Play at Store:** Choose a branch, date, time, players, and reserve a table from a cinema-style interactive floor plan.
+- **Customer Account:** Manage profile, orders, reservations, and play history in one account.
+- **Staff:** Run branch operations, manage live tables, check-in/out, walk-ins, play sessions, reservations, products, inventory, and orders.
+- **Admin:** Includes Staff features plus user, staff, branch, cross-branch, and table management.
 
 ## Design
 
-The interface uses a clean, bright, and minimal design inspired by Apple's visual style, with a focus on simplicity and ease of use.
-
-The table reservation interface is designed similarly to cinema seat selection, making it easy to see available, reserved, and occupied tables.
+Clean, bright, premium, and minimal — inspired by Apple-style product experiences. Customer pages focus on polished e-commerce, while Staff/Admin use a modern operational dashboard. The UI is responsive across desktop, tablet, and mobile.
 
 ## Figma Prototype
 
@@ -30,6 +24,4 @@ The table reservation interface is designed similarly to cinema seat selection, 
 
 ## Status
 
-**Design / Prototype Only**
-
-This project is currently focused on UI/UX design. Development and implementation have not started yet.
+**Design / Prototype Only** — development and implementation have not started yet.
