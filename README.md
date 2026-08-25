@@ -20,7 +20,7 @@ Clean, bright, premium, and minimal — inspired by Apple-style product experien
 
 ## User Story
 
-[View User Story [EN]](https://drive.google.com/file/d/1jfeLDBn12rECpyInWpu1TRd6JFWtxUqx/view?usp=sharing)
+[View User Story [EN]](https://drive.google.com/file/d/1jfeLDBn12rECpyInWpu1TRd6JFWtxUqx/view?usp=sharing)\n
 [View User Story [TH]](https://drive.google.com/file/d/1gEk11C2jvxTN03gBdZM3fJ-d8Cocsc9Y/view?usp=sharing)
 
 ## Status
